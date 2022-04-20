@@ -1,7 +1,10 @@
 # Instructions before starting
 
-## Heading 2
+Install smtplib
+Import SpeechRecognition
+Install Pyttsx3
+Install EmailMessage
 
-### Heading 3
+## Get Emails to send
 
-#### Heading 4
+Make sure Less secure app access is turned on in gmail account
